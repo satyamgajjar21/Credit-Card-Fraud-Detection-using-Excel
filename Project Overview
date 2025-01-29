@@ -23,19 +23,19 @@ Case Study Insights
 This repository includes solutions to the following key questions:
 
 List at least 5 (five) data points required for fraud detection.
-Examples: Cardholder details, transaction amount, location, IP address, delivery address. (3 marks)
+Examples: Cardholder details, transaction amount, location, IP address, delivery address. 
 
 Identify 3 (three) errors/issues that could impact analysis accuracy.
-Examples: Missing data, incorrect formats, duplicate records. (3 marks)
+Examples: Missing data, incorrect formats, duplicate records. 
 
 Identify 2 (two) anomalies or unexpected behaviors that suggest fraud.
-Examples: Bulk purchases or mismatched IP and billing addresses. (2 marks)
+Examples: Bulk purchases or mismatched IP and billing addresses. 
 
 Key takeaway from the provided data visualization chart.
-Observing trends such as spikes in transaction frequency or sudden value changes. (1 mark)
+Observing trends such as spikes in transaction frequency or sudden value changes.
 
 Type of analysis performed:
-Descriptive analytics to understand historical fraudulent transactions. (1 mark)
+Descriptive analytics to understand historical fraudulent transactions. 
 
 Why Excel?
 Excel provides accessible and versatile tools for:
